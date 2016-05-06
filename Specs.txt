@@ -1,0 +1,15 @@
+Book My Show
+Admin Persona :-
+1.	I can define number of screens & capacity of each screen
+2.	I should be able to add a movie for screens available and its timings.
+Movie Details: Movie Name
+3.	I can add a movie in advance. 
+Like  I can add movie “Sachin: A Billion Dreams” right now mentioning that it would be on Screens 1, 3, 6, 8 starting from 1st June 2016.
+4.	I should be able to pull a movie out @ the max 3 days in advance.
+
+Online booking Persona :-
+1.	I can search by movie name and it should present 
+a.	if movie is available on any/all screens with timing of each
+b.	Number of seats available
+2.	I can only book for Today, Tomorrow and Day After Tomorrow.
+3.	I can book @ the max 10 seats @ a time
